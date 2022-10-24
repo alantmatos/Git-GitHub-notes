@@ -44,9 +44,6 @@ Well .. Thanks to the **version control system (VCS)**. There is a *somewhat eas
 
 
 
-Hackers and painters
-
-[Hackers and Painters (paulgraham.com)](http://www.paulgraham.com/hp.html)
 ##
 ## **Identify Benefits of Version Control Systems**
 
