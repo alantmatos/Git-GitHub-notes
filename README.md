@@ -171,7 +171,10 @@ git add . ->adds all the files in the current directory to the staging area.
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 **SSH key:**
